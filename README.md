@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Portfolio
+Trail Portfolio Project
 
 > Description the project.
 This a portfolio trials project.
@@ -50,6 +50,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+  attribution note-Thanks to Abdul and Basit for allowing to use their code.
 
 
 ## 📝 License
