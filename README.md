@@ -50,8 +50,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-  attribution note
-- Thanks to Evans kupor for allowing code to be used.
+
 
 ## 📝 License
 
